@@ -1,0 +1,7 @@
+C:\Users\Marius\source\repos\MariusBudrauskasPyramid\MariusBudrauskasPyramid\obj\Debug\MariusBudrauskasPyramid.csprojAssemblyReference.cache
+C:\Users\Marius\source\repos\MariusBudrauskasPyramid\MariusBudrauskasPyramid\obj\Debug\MariusBudrauskasPyramid.csproj.CoreCompileInputs.cache
+C:\Users\Marius\source\repos\MariusBudrauskasPyramid\MariusBudrauskasPyramid\bin\Debug\MariusBudrauskasPyramid.exe.config
+C:\Users\Marius\source\repos\MariusBudrauskasPyramid\MariusBudrauskasPyramid\bin\Debug\MariusBudrauskasPyramid.exe
+C:\Users\Marius\source\repos\MariusBudrauskasPyramid\MariusBudrauskasPyramid\bin\Debug\MariusBudrauskasPyramid.pdb
+C:\Users\Marius\source\repos\MariusBudrauskasPyramid\MariusBudrauskasPyramid\obj\Debug\MariusBudrauskasPyramid.exe
+C:\Users\Marius\source\repos\MariusBudrauskasPyramid\MariusBudrauskasPyramid\obj\Debug\MariusBudrauskasPyramid.pdb
